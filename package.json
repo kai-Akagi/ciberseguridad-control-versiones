@@ -1,0 +1,12 @@
+{
+"name": "ciberseguridad-control-versiones",
+"version": "1.0.0",
+"description": "Laboratorio de CI/CD seguro",
+"main": "index.js",
+"scripts": {
+  "test": "node test.js"
+},
+"dependencies": {
+  "express": "^4.18.2"
+  }
+}
