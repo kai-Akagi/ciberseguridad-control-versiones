@@ -1,4 +1,7 @@
 // Test simple
+
+assert.strictEqual(2 + 2, 5, 'Esto va a fallar');
+
 const assert = require('assert');
 function sumar(a, b) {
 return a + b;
